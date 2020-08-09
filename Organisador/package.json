@@ -1,0 +1,21 @@
+{
+  "name": "Organisador",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/inquirer": "^7.3.0",
+    "@types/lowdb": "^1.0.9",
+    "@types/node": "^14.0.27",
+    "inquirer": "^7.3.3",
+    "lowdb": "^1.0.0",
+    "typescript": "^3.9.7"
+  }
+}
